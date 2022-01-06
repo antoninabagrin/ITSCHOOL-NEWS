@@ -2,7 +2,7 @@
 My final project from Web Development course at @ IT School.
 
 # Demo 
-The project is deployed at itschool-news-ba.netlify.app
+The project is deployed at https://itschool-news-ba.netlify.app/
 
 # Main features
 <ul>
